@@ -172,6 +172,7 @@ h1{
     color: #FFFFFF;
     background: var(--main-color);
     outline: none;
+    cursor: pointer;
 }
 
 .cloud_item{
